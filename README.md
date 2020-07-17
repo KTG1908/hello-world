@@ -1,2 +1,5 @@
 # hello-world
-First Repository
+
+Hi,
+This is Kartik Gupta
+This is my first repository
